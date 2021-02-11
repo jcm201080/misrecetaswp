@@ -1,0 +1,58 @@
+@import 'reset.css';
+@import 'basic.css';
+@import 'header.css';
+@import 'footer.css';
+@import 'layout.css'; 
+@import 'text.css';
+@import 'grid.css';
+@import'heading.css';
+@import'image.css';
+@import'nav.css';
+@import'utils.css';
+@import'link.css';
+@import'input.css';
+@import'button.css';
+
+
+
+
+/* main */
+/*.main-home {
+    display: flex;
+}*/
+
+
+/* section */
+/*.main-home section {
+    width: 70%;
+    
+    display: flex;
+    flex-wrap: wrap;
+    margin-left:-50px;
+}
+.main-home section img {
+    width: 100%;
+    height: auto;
+}
+.receta-full {
+    background-color: hotpink;
+    width: calc(50% - 50px);
+    margin-left: 50px;
+    margin-bottom: 5px;
+}*/
+
+/*.receta-full:nth-child(2n+1) {
+    margin-right: 0;
+}*/
+
+
+
+
+
+
+/* aside */
+
+/*.main-home aside {
+    width: 30%;
+    background-color: red;
+}*/

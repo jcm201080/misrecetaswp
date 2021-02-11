@@ -1,0 +1,13 @@
+.bg-dark{
+    background-color: darkblue;
+}
+.bg-light{
+    background-color: lightblue;
+}
+.txt-color{
+    color: red;
+}
+/*corners*/
+.rounded{
+    border-radius: 10px;
+}

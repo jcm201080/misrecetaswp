@@ -1,0 +1,13 @@
+.btn {
+    pad: .2em .6em;
+    border: none;
+}
+.btn:hover{
+    background-color: black;
+    color:white;
+    cursor:pointer;
+}
+.primary {
+    background-color: blueviolet;
+    color: white;
+}
